@@ -7,7 +7,7 @@
 #- pip install streamlit, pulp
 #- streamlit run app.py
 
-streamlit==1.38.0
-numpy>=1.24,<3.0
+streamlit
+numpy
 math
 intertools
